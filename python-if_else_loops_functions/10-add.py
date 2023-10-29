@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Function that returns the sum of two integers 
+# Function that returns the sum of two integers
 def add(a, b):
     """
     Add two numbers and return the result.
