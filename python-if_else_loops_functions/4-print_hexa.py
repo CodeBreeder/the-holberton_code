@@ -2,4 +2,4 @@
 
 # Print hex numerals
 for number in range(0, 99):
-    print(f"{number} = 0x{number:x}")
+    print("{} = 0x{:x}".format(number, number))
