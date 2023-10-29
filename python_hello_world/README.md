@@ -1,12 +1,12 @@
 Tasks....
 
->> (0) Hello, print
+>(0) Hello, print
 
 Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line.
 
 Use the function print
 
->> (1) Print integer
+>(1) Print integer
 
 Complete this source code in order to print the integer stored in the variable number, followed by `Battery street`, followed by a new line.
 
@@ -22,7 +22,7 @@ Your code must be 3 lines long
 
 You have to use f-strings tips
 
->> (2) Print float
+>(2) Print float
 
 Complete the source code in order to print the float stored in the variable number with a precision of 2 digits.
 
@@ -37,7 +37,7 @@ You are not allowed to cast number to string
 
 You have to use f-strings
 
->> (3) Print string
+>(3) Print string
 
 Complete this source code in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.
 
@@ -55,7 +55,7 @@ You are not allowed to use any loops or conditional statement
 
 Your program should be maximum 5 lines long
 
->> (4) Play with strings
+>(4) Play with strings
 
 Complete this source code to print `Welcome to Holberton School!`
 
@@ -71,7 +71,7 @@ You have to use the variables `str1` and `str2` in your new line of code
 
 Your program should be exactly 5 lines long
 
->> (5) Copy - Cut - Paste
+>(5) Copy - Cut - Paste
 
 Complete this source code:
 
