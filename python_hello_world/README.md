@@ -75,18 +75,16 @@ Your program should be exactly 5 lines long
 
 Complete this source code:
 
----
-word = "Holberton"
+`word = "Holberton"`
 
 YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
 
-print(f"First 3 letters: {word_first_3}")
+`print(f"First 3 letters: {word_first_3}")`
 
-print(f"Last 2 letters: {word_last_2}")
+`print(f"Last 2 letters: {word_last_2}")`
 
-print(f"Middle word: {middle_word}")
+`print(f"Middle word: {middle_word}")`
 
----
 You can find the source code here
 
 You are not allowed to use any loops or conditional statements
