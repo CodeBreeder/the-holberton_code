@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # String slicing 
 word = "Holberton"
 # YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
